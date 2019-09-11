@@ -1,6 +1,5 @@
 def new_hash
-user = {}
-user
+
 end
 
 
